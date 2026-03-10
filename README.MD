@@ -88,6 +88,6 @@ def main_page() -> None:
 # Установка:
 **Клонируйте репозиторий:**
 ```
-https://github.com/ts19830409/coursework_02.git
+https://github.com/ts19830409/coursework_03.git
 ```
 *Проект разработан в рамках курсового проекта*
